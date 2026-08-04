@@ -3,3 +3,5 @@ A) Nested if_test statements
 B) Using more than 32 bits in classical registers in if_test
 C) Arithmetic operations within classical expressions
 D) For and while loops inside conditionals
+E) Having reset or measurements inside conditionals
+F) Operations that cannot be loaded into Qiskit like classical operations
